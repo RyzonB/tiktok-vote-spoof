@@ -48,7 +48,7 @@ However, despite not being capable of gaining unauthorized access to user accoun
 
 ## Example
 
-![Example ](/assets/comment.png)
+![Example ](comment.png)
 
 ## Responsible Disclosure Timeline
 
