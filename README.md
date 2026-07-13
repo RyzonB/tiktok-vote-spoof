@@ -8,7 +8,7 @@ This repository documents a Client-Side UI Spoofing vulnerability discovered in 
 
 **Platform:** TikTok (Android)
 
-**CVSS v3.1 Score:** 7.7 (High)
+**CVSS v3.1 Score:** 6.5 (Medium)
 
 **Vulnerability Type:** Improper Validation of Client-Side Parameters / UI Spoofing
 
@@ -56,7 +56,7 @@ However, despite not being capable of gaining unauthorized access to user accoun
 
 * **July 2026:** Report submitted to TikTok  
 
-* **July 2026:** Report triaged and validated by the TikTok Security Team.
+* **July 2026:** Report triaged and validated by the TikTok Security Team through hackerone.(#3859962)
 
 * **July 2026:** Public release of this educational repository.
 
